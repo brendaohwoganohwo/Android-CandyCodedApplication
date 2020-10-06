@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
+import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.FixMethodOrder;
 import org.junit.Test;
@@ -121,7 +122,7 @@ public class _1_StartTheStoreInformationActivity {
             //e.printStackTrace();
         }
 
-        assertEquals("onOptionsItemSelected() method doesn't exist in MainActivity class.",
+        Assert.assertEquals("onOptionsItemSelected() method doesn't exist in MainActivity class.",
                 myClass, MainActivity.class);
 
         assertEquals("onOptionsItemSelected() method doesn't exist in MainActivity class.",
