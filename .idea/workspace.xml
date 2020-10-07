@@ -55,7 +55,7 @@
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GADSLeaderboard" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,7 +63,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity.createMapIntent_Exists">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -110,6 +110,23 @@
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
       <option name="METHOD_NAME" value="override_mainactivity_onoptionitemselected" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity.createMapIntent_Exists" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="METHOD_NAME" value="createMapIntent_Exists" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -191,6 +208,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity.createMapIntent_Exists" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity.override_mainactivity_onoptionitemselected" />
@@ -239,26 +257,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="500" y="153" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1601956536271" />
-    <state x="420" y="82" key="FileChooserDialogImpl" timestamp="1601958003377">
+    <state x="420" y="82" key="FileChooserDialogImpl" timestamp="1602106656805">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="420" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601958003377" />
-    <state width="1220" height="160" key="GridCell.Tab.0.bottom" timestamp="1601961851862">
+    <state x="420" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602106656805" />
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom" timestamp="1602107351693">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601961851862" />
-    <state width="1220" height="160" key="GridCell.Tab.0.center" timestamp="1601961851862">
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602107351693" />
+    <state width="1236" height="162" key="GridCell.Tab.0.center" timestamp="1602107351685">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601961851862" />
-    <state width="1220" height="160" key="GridCell.Tab.0.left" timestamp="1601961851862">
+    <state width="1236" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602107351685" />
+    <state width="1236" height="162" key="GridCell.Tab.0.left" timestamp="1602107351685">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601961851862" />
-    <state width="1220" height="160" key="GridCell.Tab.0.right" timestamp="1601961851862">
+    <state width="1236" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602107351685" />
+    <state width="1236" height="162" key="GridCell.Tab.0.right" timestamp="1602107351693">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601961851862" />
+    <state width="1236" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602107351693" />
     <state width="1236" height="203" key="GridCell.Tab.1.bottom" timestamp="1601958152332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -286,5 +304,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Android_CandyCodedApplication$com_pluralsight_candycoded_in_app.ic" NAME="com.pluralsight.candycoded in app Coverage Results" MODIFIED="1602107156220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pluralsight.candycoded.*</FILTER>
+    </SUITE>
   </component>
 </project>
