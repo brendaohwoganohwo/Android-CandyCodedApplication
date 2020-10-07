@@ -265,22 +265,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602106656805" />
-    <state width="1236" height="162" key="GridCell.Tab.0.bottom" timestamp="1602107934637">
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom" timestamp="1602108081659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602107934637" />
-    <state width="1236" height="162" key="GridCell.Tab.0.center" timestamp="1602107934637">
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602108081659" />
+    <state width="1236" height="162" key="GridCell.Tab.0.center" timestamp="1602108081659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602107934637" />
-    <state width="1236" height="162" key="GridCell.Tab.0.left" timestamp="1602107934637">
+    <state width="1236" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602108081659" />
+    <state width="1236" height="162" key="GridCell.Tab.0.left" timestamp="1602108081659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602107934637" />
-    <state width="1236" height="162" key="GridCell.Tab.0.right" timestamp="1602107934637">
+    <state width="1236" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602108081659" />
+    <state width="1236" height="162" key="GridCell.Tab.0.right" timestamp="1602108081659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602107934637" />
+    <state width="1236" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602108081659" />
     <state width="1236" height="203" key="GridCell.Tab.1.bottom" timestamp="1601958152332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -315,6 +315,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Android_CandyCodedApplication$com_pluralsight_candycoded_in_app.ic" NAME="com.pluralsight.candycoded in app Coverage Results" MODIFIED="1602107156220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pluralsight.candycoded.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Android_CandyCodedApplication$_2_StartTheGoogleMapsActivity_createMapIntent_Exists.ic" NAME="_2_StartTheGoogleMapsActivity.createMapIntent_Exists Coverage Results" MODIFIED="1602108081619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.pluralsight.candycoded.*</FILTER>
     </SUITE>
   </component>
