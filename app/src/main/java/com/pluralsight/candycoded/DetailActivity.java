@@ -75,20 +75,7 @@ public class DetailActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
 
     }
-
-    private void createShareIntent() {
-       String setType = "text/plain";
-       String putExtra = Intent.EXTRA_TEXT;
-       
-
-    }
-
-    private void setType() {
-
-    }
-
-}
-
+    
     private void createShareIntent(Intent intent){
         Intent shareIntent = new Intent(Intent.ACTION_DIAL);
     }
