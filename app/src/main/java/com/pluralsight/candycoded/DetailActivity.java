@@ -75,7 +75,7 @@ public class DetailActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
 
     }
-    
+
     private void createShareIntent(Intent intent){
         Intent shareIntent = new Intent(Intent.ACTION_DIAL);
     }
