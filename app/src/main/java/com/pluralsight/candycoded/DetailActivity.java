@@ -85,6 +85,6 @@ public class DetailActivity extends AppCompatActivity {
         shareIntent.putExtra(Intent.EXTRA_TEXT, shareString);
 
         startActivity(shareIntent);
-        
+
     }
 }
